@@ -15,3 +15,5 @@ if choice == money rates
 if choice == money rates 
           entry = input ("selected JPY")
           convert = "JPY" to "GBP", "EUR" and "USD" (if chosen)
+
+def output "selected" 'currency
