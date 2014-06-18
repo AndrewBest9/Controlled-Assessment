@@ -1,0 +1,16 @@
+def input 
+    money = (pound steriling, Euro, US Doller, Japanese Yen)
+    money rate = [1,2,3,4]
+print choice of rate 
+
+if choice == money rates 
+          entry = input ("selected pounds")
+          
+if choice == money rates 
+          entry = input ("selected Euro")
+          
+if choice == money rates 
+          entry = input ("selected US Doller")
+  
+if choice == money rates 
+          entry = input ("selected Japanese Yen")
